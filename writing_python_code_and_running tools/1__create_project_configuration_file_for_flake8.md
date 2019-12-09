@@ -1,4 +1,4 @@
-## 1 . Create project configuration file for flake8: {#1-create-project-configuration-file-for-flake8}
+## 1 . Create a project configuration file for flake8: {#1-create-project-configuration-file-for-flake8}
 
 Flake8 allows user to use ‘global’ configuration file to store preferences. The user configuration file is expected to be stored s somewhere in the user’s home directory.
 
