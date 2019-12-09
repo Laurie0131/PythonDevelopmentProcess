@@ -2,7 +2,7 @@
 
 Start writing python code. In this example sample.py used for as example.
 
-![](media/media/image3.png)
+![](media/image3.png)
 
 ********************************************************************************#Source code sample.py:**
 
