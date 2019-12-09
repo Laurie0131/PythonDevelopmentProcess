@@ -1,4 +1,4 @@
-## run mypy for type hints**:** {#run-mypy-for-type-hints}
+## 4. Run mypy for type hints**:** {#4-run-mypy-for-type-hints}
 
 Run mypy on source file to check to find type hints.
 
