@@ -4,7 +4,7 @@ Start writing python code. In this example `sample.py` used for as example.
 
 ![](/media/image3.png)
 ###### Fig 3. `Sample.py` as an example{#fig-3-sample-py-as-an-example}
-
+---
 ### Source code `sample.py`:
 
 
