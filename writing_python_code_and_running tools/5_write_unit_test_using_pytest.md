@@ -1,6 +1,6 @@
 ## 5. Write a unit test using pytest **:** {#5-write-unit-test-using-pytest}
 
-Use pytest library to write a unit test. Unit test for sample program shown below and test_sample.py attached in appendix.
+Use `pytest` library to write a unit test. Unit test for sample program is shown below and `test_sample.py` is attached in the appendix.
 
 ---
 
@@ -16,7 +16,7 @@ def test_answer():
 
 
 ---
-Run unit test and make sure all tests pass.
+Run the unit test and make sure all tests pass.
 
 ![](/media/image8.png)
 ###### Fig 8. Shows all tests pass{#fig-8-shows-all-tests-pass}

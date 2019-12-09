@@ -1,6 +1,6 @@
 ## 2\. Write python code : {#2-write-python-code}
 
-Start writing python code. In this example `sample.py` used for as example.
+Start writing python code. In this example `sample.py` used for as an example.
 
 ![](/media/image3.png)
 ###### Fig 3. `Sample.py` as an example{#fig-3-sample-py-as-an-example}

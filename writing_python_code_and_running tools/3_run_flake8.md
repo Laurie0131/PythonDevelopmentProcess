@@ -1,11 +1,11 @@
 ## 3\. Run flake8: {#3-run-flake8}
 
-Run flake8. The output of flake8 on `sample.py` shown below
+Run `flake8`. The output of `flake8` on `sample.py` shown below
 
 ![](/media/image4.png)
 ###### Fig 4. Output of flake8{#fig-4-output-of-flake8}
 
-Fix flake8 issues and run falke8 again to check there are no error reported.
+Fix `flake8` issues and run falke8 again to check there is no errors reported.
 
 ---
 
@@ -35,7 +35,7 @@ class AddTen:
 
 ---
 
-Modified code with no errors looks like below and `Sample_fixed.py` attached in appendix.
+Modified code with no errors looks like below and `Sample_fixed.py` attached in the appendix.
 
 ![](/media/image5.png)
 ###### Fig 5. Output of modified code with no errors{#fig-5-output-of-modified-code-with-no-errors}

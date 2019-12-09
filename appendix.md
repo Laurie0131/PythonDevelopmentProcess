@@ -20,7 +20,7 @@ max_line_length = 120
 ### 2.  pydoc generated Sample_fixed.html:
 
 ![](/media/samplehtml.jpg)
-###### Fig 10. Example of html generated from pydoc{#fig-10-example-of-html-generated-from-pydoc}
+###### Fig 10. Example of Html generated from pydoc{#fig-10-example-of-html-generated-from-pydoc}
 
 [Example Html file code](https://raw.githubusercontent.com/Laurie0131/PythonDevelopmentProcess/master/media/index.html)
 
