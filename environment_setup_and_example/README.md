@@ -23,5 +23,3 @@ python<version> -m pip install -u pytest
 ```
 python<version> -m pip install mypy
 ```
-
-**Writing python code and running the tools:**
