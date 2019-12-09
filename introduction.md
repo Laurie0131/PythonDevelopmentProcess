@@ -1,4 +1,4 @@
-# **Introduction:** {#introduction}
+# **1. Introduction:** {#introduction}
 
 This specification defines a set of python coding standards, development flow, and tools to help to identify and fix deviations in written code. These standards, flow and tools to establish
 

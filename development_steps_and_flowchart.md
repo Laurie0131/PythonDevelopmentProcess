@@ -1,4 +1,4 @@
-# **Development steps and flowchart:** {#development-steps-and-flowchart}
+# **3. Development steps and flowchart:** {#development-steps-and-flowchart}
 
 *   Write code which follows PEP8, PEP257 and PEP484 recommendations
 *   Run flake8 on source code.
