@@ -19,11 +19,3 @@ max_line_length = 120
 
 ### 2.  pydoc generated Sample_fixed.html:
 
-| **sample_fixed** |
-| --- |
-|   **Classes** |
-|        |
-
-|   **Data** |
-| --- |
-|        |   | **a** = &lt;sample_fixed.AddTen object&gt; **c** = 20 |
