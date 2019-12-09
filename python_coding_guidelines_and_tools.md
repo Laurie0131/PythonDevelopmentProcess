@@ -8,13 +8,13 @@ This section covers python coding style guidelines followed.
 
 *   **PEP 257- Docstring Conventions:** PEP257 covers semantics and conventions associated with python docstrings. The aim of PEP257 to standardize the high-level structure of docstrings. Complete specification available at [https://www.python.org/dev/peps/pep-0257/](https://www.python.org/dev/peps/pep-0257/)
 
-*   **PEP 484- Type Hints:** PEP484 introduces a provisional module to provide th standard definitions and tools, along with some conventions for situations where annotations are not available. More details on PEP484 available at
+*   **PEP 484- Type Hints:** PEP484 introduces a provisional module to provide the standard definitions and tools, along with some conventions for situations where annotations are not available. More details on PEP484 available at
 
     [https://www.python.org/dev/peps/pep-0484/](https://www.python.org/dev/peps/pep-0484/)
 
 *   **Falke8:** Flake8 is a wrapper around PyFlakes, pycodestyle and Ned Batchelder’s McCabe script
 
-    Pyflakes**:**
+    __Pyflakes:__
 
     A simple program which checks python source files for errors.
 
