@@ -12,6 +12,5 @@
   * [4. Run mypy for type hints:](environment_setup_and_example/4_run_mypy_for_type_hints.md)
   * [5. Write unit test using pytest :](environment_setup_and_example/5_write_unit_test_using_pytest.md)
   * [6. Generate documents using pydoc:](environment_setup_and_example/6_generate_documents_using_pydoc.md)
-* Temp
 * [Appendix:](appendix.md)
 
