@@ -18,4 +18,5 @@
 
     Following flow chart explains complete development lifecycle.
 
-    ![](media/media/image1.png)
+    ![](media/image1.png)
+    
