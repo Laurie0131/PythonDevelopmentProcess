@@ -9,7 +9,7 @@ Fix `flake8` issues and run falke8 again to check there is no errors reported.
 
 ---
 
-### Source code `sample.fixed.py`:
+### Source code `sample_fixed.py`:
 
 
 
