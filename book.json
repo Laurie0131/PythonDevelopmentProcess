@@ -1,7 +1,7 @@
 {
   "variables" : {
     "draft"   : "yes",
-    "title"   : "EDK II Template Specification",
+    "title"   : "Python Development Process",
     "version" : "Revision 0.20"
   },
 
