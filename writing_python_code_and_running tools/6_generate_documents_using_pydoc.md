@@ -37,7 +37,8 @@ By using the `pydoc` module, documentation is generated in the desired format. T
 
 
 ```shell
-python -m pydoc -w sample_fixed
+  python -m pydoc -w sample_fixed
+
 ```
 
 
