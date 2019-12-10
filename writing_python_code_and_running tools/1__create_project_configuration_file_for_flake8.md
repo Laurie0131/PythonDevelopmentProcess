@@ -6,7 +6,7 @@ On Windows the home directory will be something like `c:\\Users\kpurma`, a.k.a, 
 
 On Linux and other Unix like systems(including OS X) look in `!/`.
 
-Flake8 looks for "`~\.flake8`" on windows and "`~/.config/flake8`" on Linux and other Unix systems.
+Flake8 looks for "`~\.flake8`" on Windows and "`~/.config/flake8`" on Linux and other Unix systems.
 
 User configuration files use the same syntax as Project Configuration files.
 

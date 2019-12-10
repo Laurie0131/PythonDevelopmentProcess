@@ -14,3 +14,10 @@
   * [6. Generate documents using pydoc:](writing_python_code_and_running tools/6_generate_documents_using_pydoc.md)
 * [Appendix:](appendix.md)
 
+* Figures
+  * [Figure 1. Development Lifecycle](development_steps_and_flowchart.md#1-development-lifecycle)
+  * [Figure 2. Configuration File](writing_python_code_and_running tools/1__create_project_configuration_file_for_flake8.md#fig-2-configuration-file)
+  * [Figure 3. `Sample.py` as an example](writing_python_code_and_running tools\2_write_python_code.md#fig-3-sample-py-as-an-example)
+  * [Figure 4. Output of flake8](writing_python_code_and_running tools\3_run_flake8.md#fig-4-output-of-flake8)
+  * [Figure 5. Output of modified code with no errors](writing_python_code_and_running tools\3_run_flake8.md#fig-5-output-of-modified-code-with-no-errors)
+  * [
