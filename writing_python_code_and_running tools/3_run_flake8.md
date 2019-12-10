@@ -36,7 +36,7 @@ Run `flake8`. The output of `flake8` on `sample.py` shown below
 
 
 ```shell
-python -m flake8 sample.py
+  python -m flake8 sample.py
 ```
 
 
@@ -53,6 +53,8 @@ Fix `flake8` issues and run falke8 again to check there is no errors reported.
 
 
 ```python
+
+
 “””Sample file with flake8 errors fixed.”””
 
 class AddTen:
@@ -77,7 +79,7 @@ class AddTen:
 Modified code with no errors looks like below and `sample_fixed.py` attached in the appendix.
 
 ```shell
-python -m flake8 sample_fixed.py
+  python -m flake8 sample_fixed.py
 ```
 ![](/media/image5.png)
 ###### Fig 5. Output of modified code with no errors{#fig-5-output-of-modified-code-with-no-errors}
