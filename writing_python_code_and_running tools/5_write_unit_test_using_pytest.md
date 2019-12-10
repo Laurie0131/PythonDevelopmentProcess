@@ -18,6 +18,14 @@ def test_answer():
 ---
 Run the unit test and make sure all tests pass.
 
+
+
+```shell
+python -m pytest test_sample.py
+```
+
+
+
 ![](/media/image8.png)
 ###### Fig 8. Shows all tests pass{#fig-8-shows-all-tests-pass}
 

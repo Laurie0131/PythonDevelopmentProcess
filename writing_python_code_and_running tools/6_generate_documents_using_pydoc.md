@@ -2,6 +2,14 @@
 
 By using the `pydoc` module, documentation is generated in the desired format. The example below shows how to generate an html doc for the sample fixed module. The generated Html is attached in the appendix.
 
+
+
+```shell
+python -m pydoc -w sample_fixed
+```
+
+
+
 ![](/media/image9.png)
 ###### Fig 9. Using `pydoc` to generate Html document{#fig-9-using-pydoc-to-generate-html-document}
 

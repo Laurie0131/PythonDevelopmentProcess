@@ -2,6 +2,14 @@
 
 Run `flake8`. The output of `flake8` on `sample.py` shown below
 
+
+
+```shell
+python -m flake8 sample.py
+```
+
+
+
 ![](/media/image4.png)
 ###### Fig 4. Output of flake8{#fig-4-output-of-flake8}
 
@@ -35,8 +43,11 @@ class AddTen:
 
 ---
 
-Modified code with no errors looks like below and `Sample_fixed.py` attached in the appendix.
+Modified code with no errors looks like below and `sample_fixed.py` attached in the appendix.
 
+```shell
+python -m flake8 sample_fixed.py
+```
 ![](/media/image5.png)
 ###### Fig 5. Output of modified code with no errors{#fig-5-output-of-modified-code-with-no-errors}
 
