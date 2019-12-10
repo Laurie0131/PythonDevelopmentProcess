@@ -29,6 +29,7 @@
 
 -->
 
+
 ## 6\. Generate documents using pydoc: {#6-generate-documents-using-pydoc}
 
 By using the `pydoc` module, documentation is generated in the desired format. The example below shows how to generate an html doc for the sample fixed module. The generated Html is attached in the appendix.
