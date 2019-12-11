@@ -37,11 +37,13 @@ Use `pytest` library to write a unit test. Unit test for sample program is shown
 
 
 ```python
+
 from sample_fixed import AddTen
 
 def test_answer():
   sum10 = AddTen(20)
   assert sum10.add_ten() == 30
+
 ```
 
 
