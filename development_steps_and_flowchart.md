@@ -69,6 +69,5 @@ stop
 
     
 
-![](/media/image1.png)
- ###### Fig 1. Development Lifecycle{#1-development-lifecycle}
+
  
