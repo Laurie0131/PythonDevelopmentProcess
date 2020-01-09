@@ -41,13 +41,27 @@ Run `flake8`. The output of `flake8` on `sample.py` shown below
 
 
 ```shell
-  python -m flake8 sample.py
+C:\kpurma\PythonDevelopmentProcess>python -m flake8 sample.py
+sample.py:1:1: D100 Missing docstring in public module
+sample.py:30:1: F401 'os' imported but unused
+sample.py:31:1: W293 blank line contains whitespace
+sample.py:32:1: E302 expected 2 blank lines, found 1
+sample.py:33:1: D400 First line should end with a period
+sample.py:35:1: D107 Missing docstring in __init__
+sample.py:36:13: E117 over-indented
+sample.py:38:13: F841 local variable 'd' is assigned to but never used
+sample.py:41:13: E117 over-indented
+sample.py:43:21: E117 over-indented
+sample.py:44:13: E722 do not use bare 'except'
+sample.py:45:21: E117 over-indented
+sample.py:48:1: E305 expected 2 blank lines after class or function definition, found 1
+
+
 ```
 
 
 
-![](/media/image4.png)
-###### Fig 4. Output of flake8{#fig-4-output-of-flake8}
+
 
 Fix `flake8` issues and run falke8 again to check there is no errors reported.
 
@@ -58,7 +72,7 @@ Fix `flake8` issues and run falke8 again to check there is no errors reported.
 
 
 ```python
-
+#Source code sample.fixed.py:
 
 “””Sample file with flake8 errors fixed.”””
 
@@ -84,9 +98,10 @@ class AddTen:
 Modified code with no errors looks like below and `sample_fixed.py` attached in the appendix.
 
 ```shell
-  python -m flake8 sample_fixed.py
+C:\kpurma\PythonDevelopmentProcess>python -m flake8 sample_fixed.py
+
+C:\kpurma\PythonDevelopmentProcess>
+
 ```
-![](/media/image5.png)
-###### Fig 5. Output of modified code with no errors{#fig-5-output-of-modified-code-with-no-errors}
 
 <br>
