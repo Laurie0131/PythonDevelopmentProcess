@@ -67,7 +67,8 @@ stop
 @enduml
 {% endplantuml %}
 
-    
+Image here to compare with the above flow chart
+![](/media/image1.png)    
 
 
  
