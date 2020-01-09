@@ -35,19 +35,24 @@ Run `mypy` on the source file to check to find type hints.
 
 
 ```shell
- mypy sample.py -- strict
+C:\kpurma\PythonDevelopmentProcess>mypy sample.py --strict
+sample.py:35: error: Function is missing a type annotation
+sample.py:40: error: Function is missing a return type annotation
+sample.py:43: error: "AddTen" has no attribute "newvaraible"; maybe "new_varaible"?
+sample.py:48: error: Call to untyped function "AddTen" in typed context
+Found 4 errors in 1 file (checked 1 source file)
+
 
 ```
 
-![](/media/image6.png)
-###### Fig 6. Check to find type hints{#fig-6-check-to-find-type-hints}
 `Mypy` output for fixed code:
 
 ```shell
-mypy sample_fixed.py -- strict
+C:\kpurma\PythonDevelopmentProcess>mypy sample_fixed.py --strict
+Success: no issues found in 1 source file
+
 
 ```
 
 
-![](/media/image7.png)
-###### Fig 7. Check to find type hints{#fig-7-check-to-find-type-hints}
+

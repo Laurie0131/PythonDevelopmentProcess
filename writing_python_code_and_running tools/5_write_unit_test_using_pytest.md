@@ -55,12 +55,19 @@ Run the unit test and make sure all tests pass.
 
 
 ```shell
-python -m pytest test_sample.py
+C:\kpurma\PythonDevelopmentProcess>python -m pytest test_sample.py
+===============testsessionstarts========================
+platform win32 -- Python 3.8.0, pytest-5.2.2, py-1.8.0, pluggy-0.13.0
+rootdir: C:\kpurma\PythonDevelopmentProcess
+collected 1 item
+
+test_sample.py .                                                                                                 [100%]
+
+=======================1passedin 0.06s================
+
 ```
 
 
 
-![](/media/image8.png)
-###### Fig 8. Shows all tests pass{#fig-8-shows-all-tests-pass}
 
 <br>
