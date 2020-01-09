@@ -40,7 +40,7 @@ Flake8 looks for "`~\.flake8`" on Windows and "`~/.config/flake8`" on Linux and 
 
 User configuration files use the same syntax as Project Configuration files.
 
-`Flake8` configuration can be stored as "**`.flake8`**", “**`setup.cfg`**” or “**`tox.ini`**”. Flake8 configuration uses INI as a format.
+`Flake8` configuration can be stored as "**.flake8**", “**setup.cfg**” or “**tox.ini**”. Flake8 configuration uses INI as a format.
 
 Note that project specific configuration files need to keep at the root level.
  
@@ -51,7 +51,6 @@ Any `Flake8` configuration will wish to set the needs to be in the `flake8 `sect
 ```
 On your project folder create a new configuration file named  `tox.ini` (or `.flake8`or `setup.cfg`) and define a section with flake8 and add project specific rules to consider. The Config defined in Appendix is used for EDK II.
 
-![](/media/image2.png)
-###### Fig 2. Configuration File{#fig-2-configuration-file}
+
 
 The contents of `tox.ini` available in the appendix.

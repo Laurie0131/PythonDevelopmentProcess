@@ -31,16 +31,18 @@
 
 ## 2\. Write python code : {#2-write-python-code}
 
-Start writing python code. In this example `sample.py` used for as an example.
 
-![](/media/image3.png)
-###### Fig 3. `Sample.py` as an example{#fig-3-sample-py-as-an-example}
----
+Create new file and name it as `sample.py` and start writing python code. 
+Please note `sample.py` and `falke8` configuration file stored on same directory level.
+
+
 ### Source code `sample.py`:
 
 
 
 ```python
+# Source code sample.py:
+
 import os
         
 class AddTen:
@@ -56,7 +58,7 @@ class AddTen:
             try:
                     return self.newvaraible + self.user_input
             except:
-                    print("Unknown Error")
+                    print("Unknown Errror")
                     return None
 
 ```

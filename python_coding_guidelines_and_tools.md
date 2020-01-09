@@ -34,14 +34,18 @@
 
 This section covers python coding style guidelines followed.
 
-###  **PEP 8- Style guide for python code:** 
-`PEP8` covers the python code style guide and helps to maintain consistency in code. A style guide is about consistency. Consistency within a project or module or function is most important. Complete specification available at   [https://www.python.org/dev/peps/pep-0008/](https://www.python.org/dev/peps/pep-0008/)
+###	PEP 8- Style guide for python code: 
+`PEP8` covers python code style guide and helps to maintain consistency in code. A style guide is about consistency. Consistency within a project or module or function is most important. Complete specification available at 
+https://www.python.org/dev/peps/pep-0008/
+ 
+###	PEP 257- Docstring Conventions: 
+`PEP257` covers semantics and conventions associated with python docstrings. The aim of `PEP257` to standardize the high-level structure of docstrings. Complete specification available at https://www.python.org/dev/peps/pep-0257/
 
-###   **PEP 257- Docstring Conventions:** 
-`PEP257` covers semantics and conventions associated with python docstrings. The aim of PEP257 to standardize the high-level structure of docstrings. Complete specification available at [https://www.python.org/dev/peps/pep-0257/](https://www.python.org/dev/peps/pep-0257/)
+###	PEP 484- Type Hints: 
+`PEP484` introduces a provisional module to provide the standard definitions and tools, along with some conventions for situations where annotations are not available. More details on PEP484 available at
+https://www.python.org/dev/peps/pep-0484/
 
-###   **PEP 484- Type Hints:** 
-`PEP484` introduces a provisional module to provide the standard definitions and tools, along with some conventions for situations where annotations are not available. More details on PEP484 available at    [https://www.python.org/dev/peps/pep-0484/](https://www.python.org/dev/peps/pep-0484/)
+
 
 ###   **Falke8:** 
 `Flake8` is a Python library wrapper around `PyFlakes, pycodestyle` and Ned Batchelder’s `McCabe` script<br>
@@ -68,7 +72,7 @@ Complete features and documentation available at:  [https://docs.pytest.org/en/l
 
 ###   **mypy**:
 
-The `mypy` tool aims to combine the benefits of dynamic and static typing. `mypy` combines a powerful type system and compile-time type checking. It is an optional static type checker for python. Mypy type checks standard Python programs; run them using any Python VM with basically no runtime overhead. More details available at
+The `mypy` tool aims to combine the benefits of dynamic and static typing. `mypy` combines a powerful type system and compile-time type checking. It is an optional static type checker for python. `Mypy` type checks standard Python programs; run them using any Python VM with basically no runtime overhead. More details available at
 [https://mypy.readthedocs.io/en/stable/](https://mypy.readthedocs.io/en/stable/)
 
         

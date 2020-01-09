@@ -42,6 +42,32 @@
 
     Following flow chart explains complete development lifecycle.
 
-      ![](/media/image1.png)
+‘’’
+@startuml
+start
+repeat
+repeat
+  repeat
+    :Source code;
+  repeat while (Run flake8, mypy?) is (Errors)
+    ->Pass;
+
+repeat while (Run unit tests?) is (            Errors)
+->Pass;
+:     Code review,
+Online documents;
+
+repeat while (Run flake8,mypy,unitTests,
+                  Logical issues?) is (         Errors)
+->Pass;
+:Submit;
+:Update Online documents;
+
+stop
+@enduml
+‘’’
+    
+
+![](/media/image1.png)
  ###### Fig 1. Development Lifecycle{#1-development-lifecycle}
  
