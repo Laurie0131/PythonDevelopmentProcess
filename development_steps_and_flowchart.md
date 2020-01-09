@@ -41,8 +41,8 @@
 *   Write/modify/generate specifications wherever applicable
 
     Following flow chart explains complete development lifecycle.
-
-‘’’
+    
+{% plantuml %}
 @startuml
 start
 repeat
@@ -65,7 +65,8 @@ repeat while (Run flake8,mypy,unitTests,
 
 stop
 @enduml
-‘’’
+{% endplantuml %}
+
     
 
 ![](/media/image1.png)
