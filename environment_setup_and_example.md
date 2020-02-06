@@ -29,9 +29,8 @@
 
 -->
 
-# **4 Environment setup and example:** {#environment-setup-and-example}
 
-**4.1 Install and setup environment:**
+**4.1 Install and setup environment:**{#1-install-and-setup-environment}
 
 *  **Install flake8:**
 

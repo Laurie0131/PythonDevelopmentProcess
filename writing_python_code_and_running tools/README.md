@@ -1,5 +1,5 @@
 <!--- @file
-  README.md for writing python code and running the tools 
+  README.md for Environment setup and example
   for Python Development Process and Coding Specification
 
   Copyright (c) 2019, Intel Corporation. All rights reserved.<BR>
@@ -29,6 +29,7 @@
   ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 -->
-# **5. Writing python code and running the tools:** {#writing-python-code-and-running-the-tools}
+
+# **4 Environment setup and example:** {#environment-setup-and-example}
 
 This section shows writing python code and running the tools

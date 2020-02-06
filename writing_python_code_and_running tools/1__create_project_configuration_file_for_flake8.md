@@ -1,5 +1,5 @@
 <!--- @file
-  1__create_a projtect configuration file for flake8.md for Python Development Process and Coding Specification
+  4_2__create_a projtect configuration file for flake8.md for Python Development Process and Coding Specification
 
   Copyright (c) 2019, Intel Corporation. All rights reserved.<BR>
 
@@ -28,7 +28,7 @@
   ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 -->
-## 1 . Create a project configuration file for flake8: {#1-create-project-configuration-file-for-flake8}
+## 4.2 Create a project configuration file for flake8: {#2-create-project-configuration-file-for-flake8}
 
 `Flake8` allows the user to use a ‘global’ configuration file to store preferences. The user configuration file is expected to be stored  somewhere in the user’s home directory.
 
