@@ -1,7 +1,7 @@
 <!--- @file
   development_steps_and_flowchard.md for Python Development Process and Coding Specification
 
-  Copyright (c) 2019, Intel Corporation. All rights reserved.<BR>
+  Copyright (c) 2020, Intel Corporation. All rights reserved.<BR>
 
   Redistribution and use in source (original document form) and 'compiled'
   forms (converted to PDF, epub, HTML and other formats) with or without
@@ -29,7 +29,7 @@
 
 -->
 
-# **3. Development steps and flowchart:** {#development-steps-and-flowchart}
+# **3 Development steps and flowchart:** {#development-steps-and-flowchart}
 
 *   Write code which follows PEP8, PEP257 and PEP484 recommendations
 *   Run `flake8` on source code.
@@ -67,8 +67,6 @@ stop
 @enduml
 {% endplantuml %}
 
-Image here to compare with the above flow chart
-![](/media/image1.png)    
 
 
  
