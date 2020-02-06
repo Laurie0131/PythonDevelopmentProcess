@@ -1,7 +1,7 @@
 <!--- @file
   README.md for Python Development Process and Coding Specification
 
-  Copyright (c) 2019, Intel Corporation. All rights reserved.<BR>
+  Copyright (c) 2020, Intel Corporation. All rights reserved.<BR>
 
   Redistribution and use in source (original document form) and 'compiled'
   forms (converted to PDF, epub, HTML and other formats) with or without
@@ -31,7 +31,7 @@
 <img src="media/TianocoreTitlePageLogo.jpg" width="300" />
 
 
-### Python Development Process and Coding Standards Specification {#python-development-process-and-coding-standards-specification}
+### EDK II Python Development Process and Coding Standards Specification {#python-development-process-and-coding-standards-specification}
 <!---
 ### {{ book.title }}
 -->
@@ -77,7 +77,7 @@ Copyright (c) 2019, Intel Corporation. All rights reserved.
 
 | Revision | Revision History | Date |
 | ---------- | ------------------ | ----------- |
-| 01.0 | Initial release. | Dec 2019|
+| 01.0 | Initial release. | Jan 2020|
 |  |  |  |
 
 
