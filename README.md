@@ -44,10 +44,6 @@
 
 ** {{ book.version }} **
 
-#### Contributed by
-
-Kondal Purma, Intel Corporation
-
 
 ### Acknowledgements
 
