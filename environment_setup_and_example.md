@@ -1,7 +1,7 @@
 <!--- @file
   environement_setup_and_example.md for Python Development Process and Coding Specification
 
-  Copyright (c) 2019, Intel Corporation. All rights reserved.<BR>
+  Copyright (c) 2020, Intel Corporation. All rights reserved.<BR>
 
   Redistribution and use in source (original document form) and 'compiled'
   forms (converted to PDF, epub, HTML and other formats) with or without
@@ -29,9 +29,9 @@
 
 -->
 
-# **4. Environment setup and example:** {#environment-setup-and-example}
+# **4 Environment setup and example:** {#environment-setup-and-example}
 
-**Install and setup environment:**
+**4.1 Install and setup environment:**
 
 *  **Install flake8:**
 
