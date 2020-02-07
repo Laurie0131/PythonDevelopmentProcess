@@ -71,14 +71,14 @@ WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR
 OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS DOCUMENTATION, EVEN IF
 ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
-Copyright (c) 2019, Intel Corporation. All rights reserved.
+Copyright (c) 2020, Intel Corporation. All rights reserved.
 
 ### Revision History
 
 | Revision | Revision History | Date |
 | ---------- | ------------------ | ----------- |
 | 01.0 | Initial release. | Jan 2020|
-|  |  |  |
+|   |    |    |
 
 
 <!--- end of README.md
