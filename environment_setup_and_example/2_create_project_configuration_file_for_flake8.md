@@ -1,7 +1,7 @@
 <!--- @file
-  4_2__create_a projtect configuration file for flake8.md for Python Development Process and Coding Specification
+  2 create_a projtect configuration file for flake8.md for Python Development Process and Coding Specification
 
-  Copyright (c) 2019, Intel Corporation. All rights reserved.<BR>
+  Copyright (c) 2020, Intel Corporation. All rights reserved.<BR>
 
   Redistribution and use in source (original document form) and 'compiled'
   forms (converted to PDF, epub, HTML and other formats) with or without
@@ -30,26 +30,26 @@
 -->
 ## 4.2 Create a project configuration file for flake8: {#2-create-project-configuration-file-for-flake8}
 
-`Flake8` allows the user to use a ‘global’ configuration file to store preferences. The user configuration file is expected to be stored  somewhere in the user’s home directory.
+Create a file at root level of the  project  directory  and name it as "**.flake8**".
 
-On Windows the home directory will be something like `c:\\Users\kpurma`, a.k.a, ~\.
+Flake8 configuration options needs to be in the flake8 section. The following options used for EDK II flake8 configuration. 
 
-On Linux and other Unix like systems(including OS X) look in `!/`.
 
-Flake8 looks for "`~\.flake8`" on Windows and "`~/.config/flake8`" on Linux and other Unix systems.
 
-User configuration files use the same syntax as Project Configuration files.
 
-`Flake8` configuration can be stored as "**.flake8**", “**setup.cfg**” or “**tox.ini**”. Flake8 configuration uses INI as a format.
-
-Note that project specific configuration files need to keep at the root level.
- 
-Any `Flake8` configuration will wish to set the needs to be in the `flake8 `section, which means it needs to start like following:
 
 ```
-[flake]
+[flake8]
+# H903  Windows style line endings not allowed in code
+# E266 too many leading '#' for block comment
+# D203 : One blank line required before class docstring
+# H306  : imports not in alphabetical order
+ignore = H903, E266, D203, H306
+exclude = .git,
+max-complexity = 10
+max_line_length = 120
+
 ```
-On your project folder create a new configuration file named  `tox.ini` (or `.flake8`or `setup.cfg`) and define a section with flake8 and add project specific rules to consider. The Config defined in Appendix is used for EDK II.
 
 
 

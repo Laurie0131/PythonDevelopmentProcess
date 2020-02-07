@@ -1,7 +1,7 @@
 <!--- @file
-  2 write python code.md for Python Development Process and Coding Specification
+  3 write python code.md for Python Development Process and Coding Specification
 
-  Copyright (c) 2019, Intel Corporation. All rights reserved.<BR>
+  Copyright (c) 2020, Intel Corporation. All rights reserved.<BR>
 
   Redistribution and use in source (original document form) and 'compiled'
   forms (converted to PDF, epub, HTML and other formats) with or without
@@ -29,7 +29,7 @@
 
 -->
 
-## 2\. Write python code : {#2-write-python-code}
+## 4.3 Write python code : {#3-write-python-code}
 
 
 Create new file and name it as `sample.py` and start writing python code. 

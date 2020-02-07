@@ -1,7 +1,7 @@
 <!--- @file
   run mypy for type hints.md for Python Development Process and Coding Specification
 
-  Copyright (c) 2019, Intel Corporation. All rights reserved.<BR>
+  Copyright (c) 2020, Intel Corporation. All rights reserved.<BR>
 
   Redistribution and use in source (original document form) and 'compiled'
   forms (converted to PDF, epub, HTML and other formats) with or without
@@ -29,7 +29,7 @@
 
 -->
 
-## 4. Run `mypy` for type hints: {#4-run-mypy-for-type-hints}
+## 4.5 Run `mypy` for type hints: {#5-run-mypy-for-type-hints}
 
 Run `mypy` on the source file to check to find type hints.
 

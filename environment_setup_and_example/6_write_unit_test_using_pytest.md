@@ -1,8 +1,8 @@
 
 <!--- @file
-  5 write unit test using pytest.md for Python Development Process and Coding Specification
+  6 write unit test using pytest.md for Python Development Process and Coding Specification
 
-  Copyright (c) 2019, Intel Corporation. All rights reserved.<BR>
+  Copyright (c) 2020, Intel Corporation. All rights reserved.<BR>
 
   Redistribution and use in source (original document form) and 'compiled'
   forms (converted to PDF, epub, HTML and other formats) with or without
@@ -30,7 +30,7 @@
 
 -->
 
-## 5. Write a unit test using pytest **:** {#5-write-unit-test-using-pytest}
+## 4.6 Write a unit test using pytest **:** {#6-write-unit-test-using-pytest}
 
 Use `pytest` library to write a unit test. Unit test for sample program is shown below and `test_sample.py` is attached in the appendix.
 

@@ -1,8 +1,8 @@
 
 <!--- @file
-  3 run flake8.md for Python Development Process and Coding Specification
+  4 run flake8.md for Python Development Process and Coding Specification
 
-  Copyright (c) 2019, Intel Corporation. All rights reserved.<BR>
+  Copyright (c) 2020, Intel Corporation. All rights reserved.<BR>
 
   Redistribution and use in source (original document form) and 'compiled'
   forms (converted to PDF, epub, HTML and other formats) with or without
@@ -32,7 +32,7 @@
 
 
 
-## 3\. Run flake8: {#3-run-flake8}
+## 4.4 Run flake8: {#4-run-flake8}
 
 
 
@@ -58,9 +58,6 @@ sample.py:48:1: E305 expected 2 blank lines after class or function definition, 
 
 
 ```
-
-
-
 
 
 Fix `flake8` issues and run falke8 again to check there is no errors reported.
