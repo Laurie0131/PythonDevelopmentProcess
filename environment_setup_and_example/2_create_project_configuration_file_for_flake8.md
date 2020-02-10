@@ -52,5 +52,3 @@ max_line_length = 120
 ```
 
 
-
-The contents of `tox.ini` available in the appendix.
