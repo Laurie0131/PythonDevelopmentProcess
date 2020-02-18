@@ -43,193 +43,102 @@ For example, following command helps to generate html version of pydoc at your s
 ```
 
 
-
-<table width="100%" cellspacing="0" cellpadding="2" border="0" summary="heading">
-
+<table>
+<colgroup>
+<col style="width: 50%" />
+<col style="width: 50%" />
+</colgroup>
 <tbody>
-
-<tr bgcolor="#7799ee">
-
-<td valign="bottom">   
-<font color="#ffffff" face="helvetica, arial">   
-<big><big>**sample_fixed**</big></big></font></td>
-
-<td align="right" valign="bottom"><font color="#ffffff" face="helvetica, arial">[index](.)  
-[c:\kpurma\pythondevelopmentprocess\sample_fixed.py](file:c%3A%5Ckpurma%5Cpythondevelopmentprocess%5Csample_fixed.py)</font></td>
-
+<tr class="odd">
+<td> <br />
+ <br />
+<strong>sample_fixed</strong></td>
+<td style="text-align: right;"><a href=".">index</a><br />
+<a href="file:c%3A%5Ckpurma%5Cpythondevelopmentprocess%5Csample_fixed.py">c:\kpurma\pythondevelopmentprocess\sample_fixed.py</a></td>
 </tr>
-
 </tbody>
-
 </table>
 
-<tt># -*- coding: UTF-8 -*-  
-# @file  
-#  
-# @copyright  
-# INTEL CONFIDENTIAL  
-# Copyright 2019 Intel Corporation. <BR>  
-#  
-# The source code contained or described herein and all documents related to the  
-# source code ("Material") are owned by Intel Corporation or its suppliers or  
-# licensors. Title to the Material remains with Intel Corporation or its suppliers  
-# and licensors. The Material may contain trade secrets and proprietary    and  
-# confidential information of Intel Corporation and its suppliers and licensors,  
-# and is protected by worldwide copyright and trade secret laws and treaty  
-# provisions. No part of the Material may be used, copied, reproduced, modified,  
-# published, uploaded, posted, transmitted, distributed, or disclosed in any way  
-# without Intel's prior express written permission.  
-#  
-# No license under any patent, copyright, trade secret or other intellectual  
-# property right is granted to or conferred upon you by disclosure or delivery  
-# of the Materials, either expressly, by implication, inducement, estoppel or  
-# otherwise. Any license under such intellectual property rights must be  
-# express and approved by Intel in writing.  
-#  
-# Unless otherwise agreed by Intel in writing, you may not remove or alter  
-# this notice or any other notice embedded in Materials by Intel or  
-# Intel's suppliers or licensors in any way.  
-##</tt>
+\# -\*- coding: UTF-8 -\*-  
+\# @file  
+\#  
+\# @copyright  
+\# INTEL CONFIDENTIAL  
+\# Copyright 2019 Intel Corporation. &lt;BR&gt;  
+\#  
+\# The source code contained or described herein and all documents related to the  
+\# source code ("Material") are owned by Intel Corporation or its suppliers or  
+\# licensors. Title to the Material remains with Intel Corporation or its suppliers  
+\# and licensors. The Material may contain trade secrets and proprietary    and  
+\# confidential information of Intel Corporation and its suppliers and licensors,  
+\# and is protected by worldwide copyright and trade secret laws and treaty  
+\# provisions. No part of the Material may be used, copied, reproduced, modified,  
+\# published, uploaded, posted, transmitted, distributed, or disclosed in any way  
+\# without Intel's prior express written permission.  
+\#  
+\# No license under any patent, copyright, trade secret or other intellectual  
+\# property right is granted to or conferred upon you by disclosure or delivery  
+\# of the Materials, either expressly, by implication, inducement, estoppel or  
+\# otherwise. Any license under such intellectual property rights must be  
+\# express and approved by Intel in writing.  
+\#  
+\# Unless otherwise agreed by Intel in writing, you may not remove or alter  
+\# this notice or any other notice embedded in Materials by Intel or  
+\# Intel's suppliers or licensors in any way.  
+\#\#
 
-<table width="100%" cellspacing="0" cellpadding="2" border="0" summary="section">
+   
+**Classes**
 
-<tbody>
+`      `
 
-<tr bgcolor="#ee77aa">
+ 
 
-<td colspan="3" valign="bottom">   
-<font color="#ffffff" face="helvetica, arial"><big>**Classes**</big></font></td>
+[builtins.object]
 
-</tr>
+[AddTen]
 
-<tr>
+   
+<span id="AddTen">class **AddTen**</span>([builtins.object])
 
-<td bgcolor="#ee77aa"></td>
+`   `
 
-<td> </td>
+`AddTen(user_input)   Class for add ten to a given number `
 
-<td width="100%">
+ 
 
-<dl>
+Methods defined here:  
 
-<dt><font face="helvetica, arial">[builtins.object](builtins.html#object)</font></dt>
+<span id="AddTen-__init__">**\_\_init\_\_**</span>(self, user\_input)  
+`Initialize self.  See help(type(self)) for accurate signature.`
 
-<dd>
+<!-- -->
 
-<dl>
+<span id="AddTen-add_ten">**add\_ten**</span>(self)  
+`Init for calss.`
 
-<dt><font face="helvetica, arial">[AddTen](sample_fixed.html#AddTen)</font></dt>
-
-</dl>
-
-</dd>
-
-</dl>
-
-<table width="100%" cellspacing="0" cellpadding="2" border="0" summary="section">
-
-<tbody>
-
-<tr bgcolor="#ffc8d8">
-
-<td colspan="3" valign="bottom">   
-<font color="#000000" face="helvetica, arial"><a name="AddTen">class **AddTen**</a>([builtins.object](builtins.html#object))</font></td>
-
-</tr>
-
-<tr bgcolor="#ffc8d8">
-
-<td rowspan="2"></td>
-
-<td colspan="2"><tt>[AddTen](#AddTen)(user_input)  
-
-Class for add ten to a given number  
- </tt></td>
-
-</tr>
-
-<tr>
-
-<td> </td>
-
-<td width="100%">Methods defined here:  
-
-<dl>
-
-<dt><a name="AddTen-__init__">**__init__**</a>(self, user_input)</dt>
-
-<dd><tt>Initialize self.  See help(type(self)) for accurate signature.</tt></dd>
-
-</dl>
-
-<dl>
-
-<dt><a name="AddTen-add_ten">**add_ten**</a>(self)</dt>
-
-<dd><tt>Init for calss.</tt></dd>
-
-</dl>
-
-* * *
+------------------------------------------------------------------------
 
 Data descriptors defined here:  
 
-<dl>
+**\_\_dict\_\_**  
+`dictionary for instance variables (if defined)`
 
-<dt>**__dict__**</dt>
+<!-- -->
 
-<dd><tt>dictionary for instance variables (if defined)</tt></dd>
+**\_\_weakref\_\_**  
+`list of weak references to the object (if defined)`
 
-</dl>
+   
+**Data**
 
-<dl>
+`      `
 
-<dt>**__weakref__**</dt>
+ 
 
-<dd><tt>list of weak references to the object (if defined)</tt></dd>
+**a** = &lt;sample\_fixed.AddTen object&gt;  
+**c** = 20
 
-</dl>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-<table width="100%" cellspacing="0" cellpadding="2" border="0" summary="section">
-
-<tbody>
-
-<tr bgcolor="#55aa55">
-
-<td colspan="3" valign="bottom">   
-<font color="#ffffff" face="helvetica, arial"><big>**Data**</big></font></td>
-
-</tr>
-
-<tr>
-
-<td bgcolor="#55aa55"></td>
-
-<td> </td>
-
-<td width="100%">**a** = <sample_fixed.AddTen object>  
-**c** = 20</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
+  [builtins.object]: builtins.html#object
+  [AddTen]: sample_fixed.html#AddTen
 
