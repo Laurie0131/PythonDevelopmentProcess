@@ -42,7 +42,7 @@ For example, following command helps to generate html version of pydoc at your s
 
 ```
 
-```
+
 
 <table width="100%" cellspacing="0" cellpadding="2" border="0" summary="heading">
 
@@ -231,5 +231,5 @@ Data descriptors defined here:
 </tbody>
 
 </table>
-```
+
 
