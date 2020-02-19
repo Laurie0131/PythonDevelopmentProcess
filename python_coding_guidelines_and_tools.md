@@ -30,7 +30,7 @@
 -->
 
 
-# **2 Python coding guidelines and tools:** {#python-coding-guidelines-and-tools}
+# 2 Python coding guidelines and tools
 
 This section covers python coding style guidelines followed.
 
