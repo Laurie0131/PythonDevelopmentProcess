@@ -28,7 +28,7 @@
   ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 -->
-## 4.2 Create a project configuration file for flake8: {#2-create-project-configuration-file-for-flake8}
+## 4.2 Create a project configuration file for flake8
 
 Create a file at root level of the  project  directory  and name it as "**.flake8**".
 

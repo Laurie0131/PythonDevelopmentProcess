@@ -29,7 +29,7 @@
 
 -->
 
-## 4.3 Write python code : {#3-write-python-code}
+## 4.3 Write python code
 
 
 Create new file and name it as `sample.py` and start writing python code. 

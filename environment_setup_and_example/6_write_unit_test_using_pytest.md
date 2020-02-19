@@ -30,7 +30,7 @@
 
 -->
 
-## 4.6 Write a unit test using pytest **:** {#6-write-unit-test-using-pytest}
+## 4.6 Write a unit test using pytest
 
 Use `pytest` library to write a unit test. Unit test for sample program is shown below and `test_sample.py` is attached in the appendix.
 

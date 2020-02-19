@@ -30,7 +30,7 @@
 -->
 
 
-## 4.7 Generate documents using pydoc: {#7-generate-documents-using-pydoc}
+## 4.7 Generate documents using pydoc
 
 By using the `pydoc` module, documentation is generated in the desired format. 
 

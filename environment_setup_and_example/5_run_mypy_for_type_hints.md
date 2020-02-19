@@ -29,7 +29,7 @@
 
 -->
 
-## 4.5 Run `mypy` for type hints: {#5-run-mypy-for-type-hints}
+## 4.5 Run `mypy` for type hints
 
 Run `mypy` on the source file to check to find type hints.
 
