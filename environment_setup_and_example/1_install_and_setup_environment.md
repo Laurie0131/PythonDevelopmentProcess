@@ -29,7 +29,7 @@
 
 -->
 
-**4.1 Install and setup environment:**{#1-install-and-setup-environment]
+## 4.1 Install and setup environment
 
 * **Install flake8:**
 
