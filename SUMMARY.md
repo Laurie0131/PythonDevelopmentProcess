@@ -1,6 +1,5 @@
 <!--- @file
-  python_coding_guidelines_and_tools.md for Python Development Process and Coding Standards Specification
-
+  
   Copyright (c) 2020, Intel Corporation. All rights reserved.<BR>
 
   Redistribution and use in source (original document form) and 'compiled'
