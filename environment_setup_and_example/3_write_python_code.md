@@ -1,5 +1,6 @@
 <!--- @file
-  3 write python code.md for Python Development Process and Coding Specification
+  3 write python code.md for
+  EDK II Python Development Process and Coding Specification
 
   Copyright (c) 2020, Intel Corporation. All rights reserved.<BR>
 
@@ -33,11 +34,10 @@
 
 
 Create new file and name it as `sample.py` and start writing python code. 
-Please note `sample.py` and `falke8` configuration file stored on same directory level.
-
+Please note `sample.py` and `falke8` configuration files
+stored on same directory level.
 
 ### Source code `sample.py`:
-
 
 
 ```python

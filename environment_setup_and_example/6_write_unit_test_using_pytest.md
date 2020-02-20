@@ -1,6 +1,7 @@
 
 <!--- @file
-  6 write unit test using pytest.md for Python Development Process and Coding Specification
+  6 write unit test using pytest.md for
+  EDK II Python Development Process and Coding Specification
 
   Copyright (c) 2020, Intel Corporation. All rights reserved.<BR>
 
@@ -32,10 +33,10 @@
 
 ## 4.6 Write a unit test using pytest
 
-Use `pytest` library to write a unit test. Unit test for sample program is shown below and `test_sample.py` is attached in the appendix.
+Use `pytest` library to write a unit test.
+Unit test for sample program is shown below for sample code.
 
 ---
-
 
 ```python
 
@@ -53,7 +54,6 @@ def test_answer():
 Run the unit test and make sure all tests pass.
 
 
-
 ```shell
 C:\kpurma\PythonDevelopmentProcess>python -m pytest test_sample.py
 ===============testsessionstarts========================
@@ -61,13 +61,10 @@ platform win32 -- Python 3.8.0, pytest-5.2.2, py-1.8.0, pluggy-0.13.0
 rootdir: C:\kpurma\PythonDevelopmentProcess
 collected 1 item
 
-test_sample.py .                                                                                                 [100%]
+test_sample.py .    [100%]
 
 =======================1passedin 0.06s================
 
 ```
-
-
-
 
 <br>

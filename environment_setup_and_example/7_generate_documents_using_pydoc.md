@@ -1,5 +1,6 @@
 <!--- @file
-  6 generate documents using pydoc.md for Python Development Process and Coding Specification
+  6 generate documents using pydoc.md for
+  EDK II Python Development Process and Coding Specification
 
   Copyright (c) 2020, Intel Corporation. All rights reserved.<BR>
 
@@ -34,14 +35,12 @@
 
 By using the `pydoc` module, documentation is generated in the desired format. 
 
-For example, following command helps to generate html version of pydoc at your source level directory.
-
+Following command generates html version of document at source level directory.
 
 ```shell
   python -m pydoc -w sample_fixed
 
 ```
-
 
 <table>
 <colgroup>
@@ -72,7 +71,6 @@ For example, following command helps to generate html version of pydoc at your s
 
 
 `AddTen(user_input)   Class for add ten to a given number `
-
  
 
 Methods defined here:  
@@ -100,8 +98,6 @@ Data descriptors defined here:
    
 **Data**
 
-
- 
 
 **a** = &lt;sample\_fixed.AddTen object&gt;  
 **c** = 20

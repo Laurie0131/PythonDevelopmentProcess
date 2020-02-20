@@ -1,5 +1,6 @@
 <!--- @file
-  development_steps_and_flowchard.md for Python Development Process and Coding Specification
+  development_steps_and_flowchart.md for 
+  EDK II Python Development Process and Coding Specification
 
   Copyright (c) 2020, Intel Corporation. All rights reserved.<BR>
 
