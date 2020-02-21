@@ -42,66 +42,65 @@ Following command generates html version of document at source level directory.
 
 ```
 
-<table>
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
-</colgroup>
-<tbody>
-<tr class="odd">
-<td> <br />
- <br />
-<strong>sample_fixed</strong></td>
-<td style="text-align: right;"><a href=".">index</a><br />
-<a href="file:c%3A%5Ckpurma%5Cpythondevelopmentprocess%5Csample_fixed.py">c:\kpurma\pythondevelopmentprocess\sample_fixed.py</a></td>
-</tr>
-</tbody>
-</table>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html><head><title>Python: module sample_fixed</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head><body bgcolor="#f0f0f8">
 
-**Classes**
+<table width="100%" cellspacing=0 cellpadding=2 border=0 summary="heading">
+<tr bgcolor="#7799ee">
+<td valign=bottom>&nbsp;<br>
+<font color="#ffffff" face="helvetica, arial">&nbsp;<br><big><big><strong>sample_fixed</strong></big></big></font></td
+><td align=right valign=bottom
+><font color="#ffffff" face="helvetica, arial"><a href=".">index</a><br><a href="file:c%3A%5Ckpurma%5Cpythondevelopmentprocess%20-%20copy%5Csample_fixed.py">c:\kpurma\pythondevelopmentprocess - copy\sample_fixed.py</a></font></td></tr></table>
+    <p><tt>sample_fixed.py.</tt></p>
+<p>
+<table width="100%" cellspacing=0 cellpadding=2 border=0 summary="section">
+<tr bgcolor="#ee77aa">
+<td colspan=3 valign=bottom>&nbsp;<br>
+<font color="#ffffff" face="helvetica, arial"><big><strong>Classes</strong></big></font></td></tr>
+    
+<tr><td bgcolor="#ee77aa"><tt>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</tt></td><td>&nbsp;</td>
+<td width="100%"><dl>
+<dt><font face="helvetica, arial"><a href="builtins.html#object">builtins.object</a>
+</font></dt><dd>
+<dl>
+<dt><font face="helvetica, arial"><a href="sample_fixed.html#AddTen">AddTen</a>
+</font></dt></dl>
+</dd>
+</dl>
+ <p>
+<table width="100%" cellspacing=0 cellpadding=2 border=0 summary="section">
+<tr bgcolor="#ffc8d8">
+<td colspan=3 valign=bottom>&nbsp;<br>
+<font color="#000000" face="helvetica, arial"><a name="AddTen">class <strong>AddTen</strong></a>(<a href="builtins.html#object">builtins.object</a>)</font></td></tr>
+    
+<tr bgcolor="#ffc8d8"><td rowspan=2><tt>&nbsp;&nbsp;&nbsp;</tt></td>
+<td colspan=2><tt><a href="#AddTen">AddTen</a>(user_input:&nbsp;int&nbsp;=&nbsp;0)<br>
+&nbsp;<br>
+Class&nbsp;for&nbsp;add&nbsp;ten&nbsp;to&nbsp;a&nbsp;given&nbsp;number.<br>&nbsp;</tt></td></tr>
+<tr><td>&nbsp;</td>
+<td width="100%">Methods defined here:<br>
+<dl><dt><a name="AddTen-__init__"><strong>__init__</strong></a>(self, user_input: int = 0)</dt><dd><tt>Initialization.</tt></dd></dl>
 
+<dl><dt><a name="AddTen-add_ten"><strong>add_ten</strong></a>(self) -&gt; int</dt><dd><tt>Init&nbsp;for&nbsp;calss.</tt></dd></dl>
 
-[builtins.object]
-
-[AddTen]
-
-   
-<span id="AddTen">class **AddTen**</span>([builtins.object])
-
-
-
-`AddTen(user_input)   Class for add ten to a given number `
- 
-
-Methods defined here:  
-
-<span id="AddTen-__init__">**\_\_init\_\_**</span>(self, user\_input)  
-`Initialize self.  See help(type(self)) for accurate signature.`
-
-<!-- -->
-
-<span id="AddTen-add_ten">**add\_ten**</span>(self)  
-`Init for calss.`
-
-------------------------------------------------------------------------
-
-Data descriptors defined here:  
-
-**\_\_dict\_\_**  
-`dictionary for instance variables (if defined)`
-
-<!-- -->
-
-**\_\_weakref\_\_**  
-`list of weak references to the object (if defined)`
-
-   
-**Data**
-
-
-**a** = &lt;sample\_fixed.AddTen object&gt;  
-**c** = 20
-
-  [builtins.object]: builtins.html#object
-  [AddTen]: sample_fixed.html#AddTen
+<hr>
+Data descriptors defined here:<br>
+<dl><dt><strong>__dict__</strong></dt>
+<dd><tt>dictionary&nbsp;for&nbsp;instance&nbsp;variables&nbsp;(if&nbsp;defined)</tt></dd>
+</dl>
+<dl><dt><strong>__weakref__</strong></dt>
+<dd><tt>list&nbsp;of&nbsp;weak&nbsp;references&nbsp;to&nbsp;the&nbsp;object&nbsp;(if&nbsp;defined)</tt></dd>
+</dl>
+</td></tr></table></td></tr></table><p>
+<table width="100%" cellspacing=0 cellpadding=2 border=0 summary="section">
+<tr bgcolor="#55aa55">
+<td colspan=3 valign=bottom>&nbsp;<br>
+<font color="#ffffff" face="helvetica, arial"><big><strong>Data</strong></big></font></td></tr>
+    
+<tr><td bgcolor="#55aa55"><tt>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</tt></td><td>&nbsp;</td>
+<td width="100%"><strong>a</strong> = &lt;sample_fixed.AddTen object&gt;<br>
+<strong>c</strong> = 20</td></tr></table>
+</body></html>
 
