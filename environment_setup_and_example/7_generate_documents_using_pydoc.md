@@ -2,7 +2,7 @@
   6 generate documents using pydoc.md for
   EDK II Python Development Process and Coding Specification.
   Hyperlink tag for source file removed from html code.
-  Header text and class text colors changed to black
+  Header text,class and data text colors changed to black
 
   Copyright (c) 2020, Intel Corporation. All rights reserved.<BR>
 
@@ -99,7 +99,7 @@ Data descriptors defined here:<br>
 <table width="100%" cellspacing=0 cellpadding=2 border=0 summary="section">
 <tr bgcolor="#55aa55">
 <td colspan=3 valign=bottom>&nbsp;<br>
-<font color="#ffffff" face="helvetica, arial"><big><strong>Data</strong></big></font></td></tr>
+<font color="#000000" face="helvetica, arial"><big><strong>Data</strong></big></font></td></tr>
     
 <tr><td bgcolor="#55aa55"><tt>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</tt></td><td>&nbsp;</td>
 <td width="100%"><strong>a</strong> = &lt;sample_fixed.AddTen object&gt;<br>
