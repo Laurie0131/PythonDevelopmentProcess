@@ -1,6 +1,7 @@
 <!--- @file
   6 generate documents using pydoc.md for
-  EDK II Python Development Process and Coding Specification
+  EDK II Python Development Process and Coding Specification.
+  Hyperlink tag for source file removed from html code.
 
   Copyright (c) 2020, Intel Corporation. All rights reserved.<BR>
 
@@ -52,7 +53,7 @@ Following command generates html version of document at source level directory.
 <td valign=bottom>&nbsp;<br>
 <font color="#ffffff" face="helvetica, arial">&nbsp;<br><big><big><strong>sample_fixed</strong></big></big></font></td
 ><td align=right valign=bottom
-><font color="#ffffff" face="helvetica, arial"><a href=".">index</a><br><a href="file:c%3A%5Ckpurma%5Cpythondevelopmentprocess%20-%20copy%5Csample_fixed.py">c:\kpurma\pythondevelopmentprocess - copy\sample_fixed.py</a></font></td></tr></table>
+></td></tr></table>
     <p><tt>sample_fixed.py.</tt></p>
 <p>
 <table width="100%" cellspacing=0 cellpadding=2 border=0 summary="section">
