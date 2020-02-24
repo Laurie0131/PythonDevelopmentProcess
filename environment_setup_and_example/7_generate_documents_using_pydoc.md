@@ -2,6 +2,7 @@
   6 generate documents using pydoc.md for
   EDK II Python Development Process and Coding Specification.
   Hyperlink tag for source file removed from html code.
+  Header text and class text colors changed to black
 
   Copyright (c) 2020, Intel Corporation. All rights reserved.<BR>
 
@@ -51,7 +52,7 @@ Following command generates html version of document at source level directory.
 <table width="100%" cellspacing=0 cellpadding=2 border=0 summary="heading">
 <tr bgcolor="#7799ee">
 <td valign=bottom>&nbsp;<br>
-<font color="#ffffff" face="helvetica, arial">&nbsp;<br><big><big><strong>sample_fixed</strong></big></big></font></td
+<font color="#000000" face="helvetica, arial">&nbsp;<br><big><big><strong>sample_fixed</strong></big></big></font></td
 ><td align=right valign=bottom
 ></td></tr></table>
     <p><tt>sample_fixed.py.</tt></p>
@@ -59,7 +60,7 @@ Following command generates html version of document at source level directory.
 <table width="100%" cellspacing=0 cellpadding=2 border=0 summary="section">
 <tr bgcolor="#ee77aa">
 <td colspan=3 valign=bottom>&nbsp;<br>
-<font color="#ffffff" face="helvetica, arial"><big><strong>Classes</strong></big></font></td></tr>
+<font color="#000000" face="helvetica, arial"><big><strong>Classes</strong></big></font></td></tr>
     
 <tr><td bgcolor="#ee77aa"><tt>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</tt></td><td>&nbsp;</td>
 <td width="100%"><dl>
